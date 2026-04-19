@@ -50,4 +50,12 @@ This project predicts power output and detects system performance using AI.
 
 1. Install required libraries:
 2. pip install -r requirements.txt
-python solar_ai_model.py
+   
+   pandas
+   scikit-learn
+   matplotlib
+
+   ---
+
+### Run the program
+1. python solar_ai_model.py
