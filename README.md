@@ -51,9 +51,9 @@ This project predicts power output and detects system performance using AI.
 1. Install required libraries:
 2. pip install -r requirements.txt
    
-   pandas
-   scikit-learn
-   matplotlib
+   pandas, 
+    scikit-learn, 
+    matplotlib
 
    ---
 
