@@ -29,9 +29,9 @@ This project predicts power output and detects system performance using AI.
 ## 📊 Project Output
 
 ### 📈 Graph Output
-![Graph](3D Solar Power Data.png)
-![Graph](Live Solar Monitoring.png)
-![Graph](Sunlight vs Power.png)
+![Graph](3DSolarPowerData.png)
+![Graph](LiveSolarMonitoring.png)
+![Graph](SunlightvsPower.png)
 
 ### 🔢 System Output
 ![Output](solaraidasshboardoutput.pdf)
